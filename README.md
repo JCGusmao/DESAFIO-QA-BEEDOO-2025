@@ -29,4 +29,6 @@ A partir disso, as histórias foram criadas considerando:
 
 As decisões foram tomadas com foco em **clareza, usabilidade e confiabilidade do sistema**, garantindo que as User Stories representem o que o produto deveria oferecer para o usuário de forma eficiente e intuitiva.
 
-[User Stories (PDF)](./docs/UserStories.pdf)
+```bash
+[User Stories (PDF)](./docs/user_stories.pdf)
+```
