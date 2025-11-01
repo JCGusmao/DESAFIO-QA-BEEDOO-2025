@@ -5,15 +5,6 @@ Este projeto faz parte do **Desafio QA Beedoo 2025**.
 
 A aplicação testada permite o gerenciamento de cursos, incluindo **cadastro, listagem e exclusão**.
 
-## Objetivo
-O objetivo deste desafio é:
-
-- Realizar a análise funcional do módulo de cursos
-- Criar **User Stories** completas
-- Desenvolver **casos de teste** de sucesso e erro
-- Documentar todas as evidências
-- Organizar os artefatos em um repositório profissional e rastreável
-
 ## Escopo Testado
 Funcionalidades avaliadas:
 
